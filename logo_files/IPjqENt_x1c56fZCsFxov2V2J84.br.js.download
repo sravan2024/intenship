@@ -1,0 +1,1 @@
+var BingPagesScope;(function(){var n=_d.getElementById("b-scopeListItem-bingpages");n&&n.addEventListener("click",function(){sj_log("CI.BPDSBEntry","DSBEntryClick",window.location.href)})})(BingPagesScope||(BingPagesScope={}))
